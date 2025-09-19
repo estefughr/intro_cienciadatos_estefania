@@ -1,1 +1,1 @@
-# Repositorio del proyecto de aula de Introducción a Ciencia de Datos
+# Repositorio de curso: Introducción a Ciencia de Datos
