@@ -3,6 +3,9 @@
 ## 👩‍🔬 Autor
 **Estefanía Hurtado Reina**
 
+estefania.hurtado@udea.edu.co
+
+Ingeniería Ambiental
 ---
 
 ## 🎯 Objetivo
