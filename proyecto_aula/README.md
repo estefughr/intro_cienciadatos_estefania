@@ -17,7 +17,7 @@ Ingeniería Ambiental
 
 ## 📁 Estructura del repositorio
 
-El repositorio se organiza en los siguientes apartados principales:
+El repositorio contiene en cada apartado los códigos utilizados para el tratamiento de datos, con los que se generan gráficas de visualización y estas se complementan con textos en los que se hace un análisis de las mismas, en algunos casos acompañados de tablas con un resumen de la información y se organiza en los siguientes apartados principales:
 
 1. **Introducción**
    - 1.1 Pregunta de investigación  
