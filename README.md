@@ -13,4 +13,4 @@ Ingeniería Ambiental
 -Informes del proyecto de aula.
 
 # Lenguaje
-Python, utilizando bibliotecas Pandas, NumPy, Matplotlib, Seaborn, entre otras herramientas de análisis estadístico.
+Python, utilizando bibliotecas os, pandas, seaborn, patplotlib, numpy, sklearn (IsolationForest, StandardScaler), calendar
