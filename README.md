@@ -1,5 +1,5 @@
 # Repositorio de curso: Introducción a Ciencia de Datos
-Estefanía Hurtado Reina - estefania.hurtado@udea.edu.co
+👩‍🔬 Estefanía Hurtado Reina - estefania.hurtado@udea.edu.co
 
 Ingeniería Ambiental
 
@@ -15,14 +15,6 @@ Ingeniería Ambiental
 # Lenguaje
 Python, utilizando bibliotecas os, pandas, seaborn, patplotlib, numpy, sklearn (IsolationForest, StandardScaler), calendar
 # 🌆 Proyecto de aula: Concentración de PM2.5 en Pekín y su relación con variables meteorológicas
-
-## 👩‍🔬 Autor
-**Estefanía Hurtado Reina**
-
-estefania.hurtado@udea.edu.co
-
-Ingeniería Ambiental
-
 ---
 
 ## 🎯 Objetivo
@@ -53,12 +45,15 @@ El repositorio contiene en cada apartado los códigos utilizados para el tratami
 4. **Detección y análisis de datos atípicos**
    - 4.1 Método de Rango Intercuartílico (IQR)  
    - 4.2 Método de Isolation Forest  
-
-5. **Conclusiones**
-
-6. **Referencias**
-
----
+5. **Tratamiento de datos faltantes**
+6. **Estacionalidad**
+   - 6.1 Verano/Invierno
+   - 6.2 Distribución estacional y polución
+   - 6.3 Análisis de dirección de vientos y estacionalidad
+   - 6.4 Análisis de características relativas al viento
+7. **Eventos especiales**
+   -  7.1 Ocurrencia de precipitación
+   -  7.2 "Airpocalipsis"
 
 ## 💾 Fuente de los datos
 
